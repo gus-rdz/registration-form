@@ -5,20 +5,6 @@ body {
   background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
 }
 
-.flavor {
-  text-align: left;
-  width: 50%;
-}
-
-.price {
-  text-align: right;
-  width: 50%;
-}
-
-.item p {
-  display: inline-block;
-}
-
 /* Camper Cafe */
 .cafe-h1,
 .cafe-h2,
@@ -31,6 +17,21 @@ body {
   background-color: burlywood;
   margin-left: auto;
   margin-right: auto;
+}
+
+.item p {
+  display: inline-block;
+}
+
+.dessert,
+.flavor {
+  text-align: left;
+  width: 75%;
+}
+
+.price {
+  text-align: right;
+  width: 25%;
 }
 
 /* Registration Form */
