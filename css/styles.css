@@ -14,9 +14,11 @@ body {
 
 .cafe-menu {
   width: 80%;
+  max-width: 500px;
   background-color: burlywood;
   margin-left: auto;
   margin-right: auto;
+  padding: 20px;
 }
 
 .item p {
