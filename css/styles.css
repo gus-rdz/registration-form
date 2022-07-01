@@ -16,6 +16,12 @@ body {
   font-family: sans-serif;
 }
 
+hr {
+  height: 2px;
+  background-color: brown;
+  border-color: brown;
+}
+
 .cafe-h1,
 .cafe-h2,
 .cafe-p {
@@ -126,6 +132,6 @@ input[type="file"] {
   padding: 1px 2px;
 }
 
-a {
+.form-a {
   color: #dfdfe2;
 }
