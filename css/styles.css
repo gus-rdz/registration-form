@@ -14,12 +14,17 @@ body {
   margin-right: auto;
   padding: 20px;
   font-family: sans-serif;
+  padding: 20px;
 }
 
 hr {
   height: 2px;
   background-color: brown;
   border-color: brown;
+}
+
+.bottom-line {
+  margin-top: 25px;
 }
 
 .cafe-h1,
@@ -47,6 +52,9 @@ hr {
 
 .item p {
   display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;
 }
 
 .dessert,
