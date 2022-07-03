@@ -68,6 +68,21 @@ hr {
   width: 25%;
 }
 
+/* CAFE FOOTER */
+footer {
+  font-size: 14px;
+}
+
+.cafe-a,
+.cafe-a:visited {
+  color: black;
+}
+
+.cafe-a:hover,
+.cafe-a:active {
+  color: brown;
+}
+
 /* Registration Form */
 .form-container {
   background-color: #1b1b32;
