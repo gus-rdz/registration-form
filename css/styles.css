@@ -96,6 +96,11 @@ footer {
   color: brown;
 }
 
+/* Colored Markers */
+.markers-h1 {
+  text-align: center;
+}
+
 /* Registration Form */
 .form-container {
   background-color: #1b1b32;
