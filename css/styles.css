@@ -101,6 +101,13 @@ footer {
   text-align: center;
 }
 
+.marker {
+  background-color: red;
+  width: 200px;
+  height: 25px;
+  margin: auto;
+}
+
 /* Registration Form */
 .form-container {
   background-color: #1b1b32;
