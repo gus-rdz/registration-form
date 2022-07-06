@@ -101,6 +101,11 @@ footer {
   text-align: center;
 }
 
+.markers-container {
+  background-color: rgb(255, 255, 255);
+  padding: 10px 0;
+}
+
 .marker {
   width: 200px;
   height: 25px;
@@ -108,15 +113,15 @@ footer {
 }
 
 .one {
-  background-color: red;
+  background-color: rgb(255, 255, 0);
 }
 
 .two {
-  background-color: green;
+  background-color: rgb(0, 255, 255);
 }
 
 .three {
-  background-color: blue;
+  background-color: rgb(255, 0, 255);
 }
 
 /* Registration Form */
