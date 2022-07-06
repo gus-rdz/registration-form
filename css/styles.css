@@ -102,10 +102,21 @@ footer {
 }
 
 .marker {
-  background-color: red;
   width: 200px;
   height: 25px;
-  margin: auto;
+  margin: 10px auto;
+}
+
+.one {
+  background-color: red;
+}
+
+.two {
+  background-color: green;
+}
+
+.three {
+  background-color: blue;
 }
 
 /* Registration Form */
