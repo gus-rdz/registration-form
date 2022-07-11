@@ -96,6 +96,13 @@ footer {
   color: brown;
 }
 
+/* Comparison Slider Test */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 /* Colored Markers */
 .markers-h1 {
   text-align: center;
