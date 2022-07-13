@@ -119,6 +119,11 @@ footer {
   margin: 10px auto;
 }
 
+.sleeve {
+  width: 110px;
+  height: 25px;
+}
+
 .red {
   background: linear-gradient(
     rgb(122, 74, 14),
